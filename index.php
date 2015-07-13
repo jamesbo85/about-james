@@ -9,7 +9,7 @@
 			community college I took a job at small municiple airport in Dallas. I then moved on to a series of jobs
 			including selling Cutco knives, running a stainless steel warehouse. For the past 3 years I've been managing a
 			ice hockey rink as well as coaching a team and teaching classes and private lesson for kids ages 4 to 18.</p>
-		<p>Along with playing hockey, i enjoy rock climbing, reading and cooking. I recently quite my job to attend this
+		<p>Along with playing hockey, i really enjoy rock climbing, reading and cooking. I recently quite my job to attend this
 			course. I took this risk because I reached a ceiling at the hockey rink and coaching is seasonal and sporatic.
 			I have always had an interest in coding and I see this course as a path to a rewarding career in a high demand
 			field. Which path my career will take is unkown. to be honest i dont know enough about coding yet to know what

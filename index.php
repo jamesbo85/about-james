@@ -4,7 +4,7 @@
 			<title>All About James Huber</title>
 		</head>
 	<body>
-		<img src="imgs/aboutmeimg.jpg">
+		<img src="images/aboutmeimg.jpg">
 		<p>I was born on June 28, 1985. I was born and raised in Dallas, TX. After a unsuccessful semester and a half of
 			community college I took a job at small municiple airport in Dallas. I then moved on to a series of jobs
 			including selling CutCo knives, running a stainless steel warehouse. For the past 3 years I've been managing a
